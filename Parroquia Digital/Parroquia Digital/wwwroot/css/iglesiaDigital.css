@@ -1,0 +1,353 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    width: 100%;
+    bottom: 0; 
+    position: relative;
+}
+
+/* Estilo para la información de contacto */
+.contact-info {
+    font-family: Prata;
+    font-size: 18px; 
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+/* Estilo para el título "Información de contacto" */
+.contact-title {
+    font-size: 28px; 
+    font-weight: 400;
+    line-height: 36px; 
+    letter-spacing: 0em;
+    text-align: center;
+    color: #F4EDD6;
+}
+
+
+
+/* Estilo para el contenido de la información de contacto */
+.contact-content pre {
+    font-family: Barlow;
+    font-size: 18px; 
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0em;
+    color: #F4EDD6;
+
+}
+
+/*Layout default*/
+.custom-header {
+    background-color: #A09B95;
+    width: 100%;
+    height: 160px;
+    position: relative;
+}
+
+
+.custom-title {
+    width: 797px;
+    height: 195px;
+    position: absolute; 
+    top: 55%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    font-family: Prata;
+    font-size: 3em;
+    font-weight: 400;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+}
+
+.custom-header2 {
+    background-color: #A09B95;
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+
+.custom-title2 {
+    width: 797px;
+    height: 195px;
+    position: absolute; 
+    left: 50%; 
+    transform: translate(-50%); 
+    font-family: Prata;
+    font-size: 3em;
+    font-weight: 400;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+}
+
+
+
+
+/*Menu de Redes Sociales*/
+.custom-social {
+    width: 100%;
+    min-height: 90px; 
+    background-color: #EFD98C;
+    position: relative;
+}
+
+/* Estilo para el título de redes sociales */
+.custom-social-title {
+    width: auto; 
+    max-width: 355px; 
+    height: 44px;
+    top: 50%; 
+    left: 9%; 
+    font-family: Barlow;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    color: #000000;
+    position: absolute;
+    transform: translateY(-50%);
+}
+
+/* Estilo para el contenedor de iconos de redes sociales */
+.custom-social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    margin: 0 90px; 
+    font-size: 14px;
+    color: #000000;
+}
+
+.social-icon a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.social-icon img {
+    width: 80px; 
+    height: 80px;
+    margin-right: 5px; 
+}
+
+.social-title {
+    font-family: Barlow;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    color: #000000;
+}
+
+/* Media query para pantallas más pequeñas */
+@media (max-width: 1100px) {
+    .custom-social-title {
+        width: auto; 
+        max-width: 100%; 
+        height: auto; 
+        top: auto; 
+        left: auto; 
+        transform: none; 
+        text-align: center; 
+    }
+
+    .custom-social {
+        min-height: 100px;
+    }
+
+    .social-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px 0;
+        font-size: 14px;
+        color: #000000;
+    }
+
+        .social-icon img {
+            width: 50px;
+            height: 50px;
+            margin-right: 0; 
+        }
+}
+
+
+
+
+/*BARRA NUEVA*/
+
+/* Estilo para la barra de navegación */
+.custom-navbar {
+    background-color: #894F0C; 
+    border: 3px solid #894F0C; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; 
+}
+
+.custom-navbar .navbar-brand {
+    color: #fff; 
+    font-family: Barlow;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+}
+
+/* Estilo para los botones en la barra de navegación */
+.custom-button {
+    width: 300px; 
+    height: 66px; 
+    top: 439px; 
+    border: 3px solid transparent; 
+    color: #fff; 
+    background-color: transparent; 
+    font-family: Barlow;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding: 0.5rem 1rem; 
+}
+
+.custom-button:hover {
+    background-color: #9d6727; /* Color de fondo al pasar el mouse sobre el botón */
+    border-color: #865215; /* Color del borde al pasar el mouse sobre el botón */
+}
+
+
+/* Estilo para el ícono del botón de navegación en dispositivos móviles */
+.custom-navbar .navbar-toggler-icon {
+    background-color: #fff;
+}
+
+
+/* Estilo para los títulos */
+
+a .infoContent {
+    font-family: Barlow;
+    font-size: 18px;
+    position: relative;
+    top: 1px;
+}
+
+
+/*Imagen página principal*/
+.initial-image {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+/* Establece un contenedor para el diseño */
+.container2 {
+    display: grid;
+    grid-template-columns: 30% 70%; /* Divide en columnas 30% y 70% */
+    gap: 20px; /* Espacio entre las columnas */
+    margin-bottom:3%;
+}
+
+/* Estilo para el título */
+.infoContent2 {
+    font-family: Barlow;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    color: #000000;
+    margin: 0; 
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+
+/* Estilo para el párrafo de contenido */
+.paragraph2 {
+    font-family: Barlow;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    color: #000000;
+    margin: 0;
+    position: relative;
+    top: 10%;
+}
