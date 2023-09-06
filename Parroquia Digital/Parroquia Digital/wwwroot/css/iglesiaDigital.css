@@ -275,7 +275,13 @@ footer {
     letter-spacing: 0em;
     text-align: center;
     padding: 0.5rem 1rem;
-    flex: 1;
+    max-width: 300px;
+}
+
+/* Estilo para los elementos li que contienen los botones */
+.custom-navbar .nav-item {
+    flex-grow: 1; /* Distribuye automáticamente el espacio disponible entre los elementos li */
+    margin: 0 5%; /* Agrega un espacio de 5% en los márgenes izquierdo y derecho de cada elemento li */
 }
 
 
