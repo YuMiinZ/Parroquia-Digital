@@ -222,7 +222,7 @@ footer {
         max-width: 100%; 
         height: auto; 
         top: auto; 
-        left: auto; 
+        left: 10px; 
         transform: none; 
         text-align: center; 
     }
