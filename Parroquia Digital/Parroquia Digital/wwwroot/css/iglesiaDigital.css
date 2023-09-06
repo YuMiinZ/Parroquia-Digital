@@ -275,7 +275,7 @@ footer {
     letter-spacing: 0em;
     text-align: center;
     padding: 0.5rem 1rem;
-    flex: 1; 
+    flex: 1;
 }
 
 
@@ -293,9 +293,9 @@ footer {
 
 /* Estilo para los títulos */
 
-a .infoContent {
+.infoContent {
     font-family: Barlow;
-    font-size: 18px;
+    font-size: 20px;
     position: relative;
     top: 1px;
 }
