@@ -254,39 +254,30 @@ footer {
 
 /* Estilo para la barra de navegación */
 .custom-navbar {
-    background-color: #894F0C; 
-    border: 3px solid #894F0C; 
+    background-color: #894F0C;
+    border: 3px solid #894F0C;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px; 
-}
-
-.custom-navbar .navbar-brand {
-    color: #fff; 
-    font-family: Barlow;
-    font-size: 32px;
-    font-weight: 700;
-    line-height: 38px;
-    letter-spacing: 0em;
+    width: 100%;
+    padding: 10px;
 }
 
 /* Estilo para los botones en la barra de navegación */
 .custom-button {
-    width: 300px; 
-    height: 66px; 
-    top: 439px; 
-    border: 3px solid transparent; 
-    color: #fff; 
-    background-color: transparent; 
+    border: 3px solid transparent;
+    color: #fff;
+    background-color: transparent;
     font-family: Barlow;
     font-size: 28px;
     font-weight: 700;
     line-height: 38px;
     letter-spacing: 0em;
     text-align: center;
-    padding: 0.5rem 1rem; 
+    padding: 0.5rem 1rem;
+    flex: 1; 
 }
+
 
 .custom-button:hover {
     background-color: #9d6727; /* Color de fondo al pasar el mouse sobre el botón */
