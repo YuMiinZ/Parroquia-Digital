@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QgcxE+q1VeW/aNtNZDzgUGrQJLf3tMWBE/RhVQxD/GjAoRBQATdcSLOeJCGO/D52x+Keb/TAFrB4KXBVfHEeWg==",
+  "dgSpecHash": "pwOBH3T0cJsuO6w+ajcYRLqCkzzMo7Mp6KFdbRmtuCNjI5wbgtMG9RDECZVpF0+dazANzWcbcKTFhzIPS+E24A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yumii\\OneDrive - Estudiantes ITCR\\TEC\\2023\\II Semestre\\Computación y Sociedad\\Proyecto\\Página Web\\Parroquia Digital\\Parroquia Digital\\Parroquia Digital.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aloga\\OneDrive\\Escritorio\\Parroquia-Digital\\Parroquia Digital\\Parroquia Digital\\Parroquia Digital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aloga\\.nuget\\packages\\google.apis\\1.62.0\\google.apis.1.62.0.nupkg.sha512",
+    "C:\\Users\\aloga\\.nuget\\packages\\google.apis.auth\\1.62.0\\google.apis.auth.1.62.0.nupkg.sha512",
+    "C:\\Users\\aloga\\.nuget\\packages\\google.apis.core\\1.62.0\\google.apis.core.1.62.0.nupkg.sha512",
+    "C:\\Users\\aloga\\.nuget\\packages\\google.apis.sheets.v4\\1.62.0.3148\\google.apis.sheets.v4.1.62.0.3148.nupkg.sha512",
+    "C:\\Users\\aloga\\.nuget\\packages\\google.gdata.client.core\\1.0.2\\google.gdata.client.core.1.0.2.nupkg.sha512",
+    "C:\\Users\\aloga\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
