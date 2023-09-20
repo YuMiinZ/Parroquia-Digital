@@ -8,28 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\yumii\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Harrick Mc Lean M\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yumii\\OneDrive - Estudiantes ITCR\\TEC\\2023\\II Semestre\\Computación y Sociedad\\Proyecto\\Página Web\\Parroquia Digital\\Parroquia Digital\\Parroquia Digital.csproj",
+      "projectUniqueName": "C:\\Users\\Harrick Mc Lean M\\OneDrive\\TEC\\AA Compu y Sociedad\\Parroquia-Digital\\Parroquia Digital\\Parroquia Digital\\Parroquia Digital.csproj",
       "projectName": "Parroquia Digital",
-      "projectPath": "C:\\Users\\yumii\\OneDrive - Estudiantes ITCR\\TEC\\2023\\II Semestre\\Computación y Sociedad\\Proyecto\\Página Web\\Parroquia Digital\\Parroquia Digital\\Parroquia Digital.csproj",
-      "packagesPath": "C:\\Users\\yumii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yumii\\OneDrive - Estudiantes ITCR\\TEC\\2023\\II Semestre\\Computación y Sociedad\\Proyecto\\Página Web\\Parroquia Digital\\Parroquia Digital\\obj\\",
+      "projectPath": "C:\\Users\\Harrick Mc Lean M\\OneDrive\\TEC\\AA Compu y Sociedad\\Parroquia-Digital\\Parroquia Digital\\Parroquia Digital\\Parroquia Digital.csproj",
+      "packagesPath": "C:\\Users\\Harrick Mc Lean M\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Harrick Mc Lean M\\OneDrive\\TEC\\AA Compu y Sociedad\\Parroquia-Digital\\Parroquia Digital\\Parroquia Digital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\yumii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Harrick Mc Lean M\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -71,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -51,7 +51,7 @@ button.accept-policy {
   line-height: inherit;
 }
 
-/* Sticky footer styles
+/* Sticky footer styles color de antes 000000
 -------------------------------------------------- */
 html {
     position: relative;
@@ -60,11 +60,11 @@ html {
 
 
 footer {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #bd0003;
+    color: #bd0003;
     padding: 20px;
     width: 100%;
-    bottom: 0; 
+    bottom: 0;
     position: relative;
 }
 
@@ -90,20 +90,19 @@ footer {
 
 
 
-/* Estilo para el contenido de la información de contacto */
+/* Estilo para el contenido de la información de contacto #F4EDD6*/
 .contact-content pre {
     font-family: Barlow;
-    font-size: 18px; 
+    font-size: 18px;
     font-weight: 400;
-    line-height: 24px; 
+    line-height: 24px;
     letter-spacing: 0em;
-    color: #F4EDD6;
-
+    color: #4247A1;
 }
 
-/*Layout default*/
+/*Layout default COLOR ANTERIOR: #A09B95 */
 .custom-header {
-    background-color: #A09B95;
+    background-color: #bd0003;
     width: 100%;
     height: 160px;
     position: relative;
@@ -113,10 +112,10 @@ footer {
 .custom-title {
     width: 797px;
     height: 195px;
-    position: absolute; 
-    top: 55%; 
-    left: 50%; 
-    transform: translate(-50%, -50%); 
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-family: Prata;
     font-size: 3em;
     font-weight: 400;
@@ -127,7 +126,7 @@ footer {
 }
 
 .custom-header2 {
-    background-color: #A09B95;
+    background-color: #bd0003;
     width: 100%;
     height: 100px;
     position: relative;
@@ -136,16 +135,16 @@ footer {
 .custom-title2 {
     width: 797px;
     height: 195px;
-    position: absolute; 
-    left: 50%; 
-    transform: translate(-50%); 
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
     font-family: Prata;
     font-size: 3em;
     font-weight: 400;
     line-height: 87px;
     letter-spacing: 0em;
     text-align: center;
-    color: #000000;
+    color: #bd0003;
 }
 
 
@@ -254,8 +253,8 @@ footer {
 
 /* Estilo para la barra de navegación */
 .custom-navbar {
-    background-color: #894F0C;
-    border: 3px solid #894F0C;
+    background-color: #3c60af;
+    border: 3px solid #3c60af;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -266,7 +265,7 @@ footer {
 /* Estilo para los botones en la barra de navegación */
 .custom-button {
     border: 3px solid transparent;
-    color: #fff;
+    color: #3c60af;
     background-color: transparent;
     font-family: Barlow;
     font-size: 28px;
@@ -286,14 +285,14 @@ footer {
 
 
 .custom-button:hover {
-    background-color: #9d6727; /* Color de fondo al pasar el mouse sobre el botón */
-    border-color: #865215; /* Color del borde al pasar el mouse sobre el botón */
+    background-color: #647db5; /* Color de fondo al pasar el mouse sobre el botón #9d6727*/
+    border-color: #38538f; /* Color del borde al pasar el mouse sobre el botón#865215 */
 }
 
 
 /* Estilo para el ícono del botón de navegación en dispositivos móviles */
 .custom-navbar .navbar-toggler-icon {
-    background-color: #fff;
+    background-color: #3c60af;
 }
 
 
