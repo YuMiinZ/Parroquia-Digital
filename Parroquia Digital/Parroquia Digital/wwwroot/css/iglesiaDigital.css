@@ -60,9 +60,8 @@ html {
 
 
 footer {
-    background-color: #5e191a;
+    background-color: #000000;
     color: #ffffff;
-    padding: 20px;
     width: 100%;
     bottom: 0;
     position: relative;
@@ -80,9 +79,10 @@ footer {
 
 /* Estilo para el título "Información de contacto" */
 .contact-title {
+    position:relative;
+    top: 20px;
     font-size: 28px; 
     font-weight: 400;
-    line-height: 36px; 
     letter-spacing: 0em;
     text-align: center;
     color: #F4EDD6;
@@ -99,11 +99,21 @@ footer {
     letter-spacing: 0em;
     color: #F4EDD6;
 
+    position: relative;
+    left: 15px;
 }
+
+
+.contact-content a {
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+    color: #0366d6;
+}
+
+
 
 /*Layout default COLOR ANTERIOR: #A09B95 */
 .custom-header {
-    background-color: #5e191a;
+    background-color: #EFD98C;
     width: 100%;
     height: 160px;
     position: relative;
@@ -127,7 +137,7 @@ footer {
 }
 
 .custom-header2 {
-    background-color: #5e191a;
+    background-color: #EFD98C;
     width: 100%;
     height: 100px;
     position: relative;
@@ -145,7 +155,7 @@ footer {
     line-height: 87px;
     letter-spacing: 0em;
     text-align: center;
-    color: black;
+    color: #000000;
 }
 
 
@@ -240,11 +250,11 @@ footer {
         color: #000000;
     }
 
-        .social-icon img {
-            width: 50px;
-            height: 50px;
-            margin-right: 0; 
-        }
+    .social-icon img {
+        width: 50px;
+        height: 50px;
+        margin-right: 0; 
+    }
 }
 
 
