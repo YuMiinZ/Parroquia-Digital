@@ -1,0 +1,42 @@
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.exe
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.deps.json
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.runtimeconfig.json
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.runtimeconfig.dev.json
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.dll
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.pdb
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.Views.dll
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\bin\Release\netcoreapp3.1\Parroquia Digital.Views.pdb
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.csproj.AssemblyReference.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.AssemblyInfoInputs.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.AssemblyInfo.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.csproj.CoreCompileInputs.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.RazorAssemblyInfo.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.RazorAssemblyInfo.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\staticwebassets\Parroquia Digital.StaticWebAssets.Manifest.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\staticwebassets\Parroquia Digital.StaticWebAssets.xml
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\scopedcss\bundle\Parroquia Digital.styles.css
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.TagHelpers.input.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.TagHelpers.output.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.RazorCoreGenerate.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\EventosEspeciales.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Grupos.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Horario.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Shared\LayoutInicio.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.RazorTargetAssemblyInfo.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.RazorTargetAssemblyInfo.cs
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.Views.pdb
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.dll
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.pdb
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.genruntimeconfig.cache
+C:\Users\raque\OneDrive - Estudiantes ITCR\Documentos\GitHub\Parroquia-Digital\Parroquia Digital\Parroquia Digital\obj\Release\netcoreapp3.1\Parroquia Digital.csproj.CopyComplete
