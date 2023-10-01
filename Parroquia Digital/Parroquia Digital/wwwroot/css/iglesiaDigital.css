@@ -109,6 +109,10 @@ footer {
     color: #0366d6;
 }
 
+.contact-content a:hover {
+    text-decoration: none; /* Elimina el subrayado al pasar el mouse por encima */
+}
+
 
 
 /*Layout default COLOR ANTERIOR: #A09B95 */
