@@ -276,7 +276,7 @@ using Parroquia_Digital;
                 WriteLiteral(@"
                     </li>
                     <li class=""nav-item"">
-                        <a class=""nav-link custom-button"" href=""https://www.facebook.com/parroquiasanmiguelarcangel.desamparados/?locale=es_LA"" target=""_blank"">Encuesta de Satisfacción</a>
+                        <a class=""nav-link custom-button"" href=""https://forms.gle/d8NkF89f1j3x4SmX7"" target=""_blank"">Encuesta de Satisfacción</a>
                     </li>
                 </ul>
             </div>
